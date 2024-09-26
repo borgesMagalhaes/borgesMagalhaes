@@ -38,23 +38,22 @@ Sou desenvolvedor **full-stack** apaixonado por criar soluções tecnológicas m
 
 ---
 
+## 💻 Projetos em Destaque
+
+Aqui estão alguns dos meus principais projetos:
+
+- [🔗 Projeto de Gestão de Frota](https://github.com/borgesMagalhaes/frota) - Sistema de gestão de veículos com integração de API e relatórios.
+- [🔗 Sistema de Autenticação AD](https://github.com/borgesMagalhaes/auth-AD) - Ferramenta para autenticação via Active Directory usando VB.NET.
+
+---
+
 ## 📊 Contribuições Recentes
 
 <div align="center">
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=borgesMagalhaes&theme=react-dark)
 
-![Contributions Yearly Heatmap](https://github-readme-stats.vercel.app/api?username=borgesMagalhaes&count_private=true&show_icons=true&include_all_commits=true&theme=chartreuse-dark)
-
 </div>
-
----
-
-## 💻 Projetos em Destaque
-
-- [![Repositório mais popular](https://github-readme-stats.vercel.app/api/pin/?username=borgesMagalhaes&repo=nome-do-repositorio&theme=radical)](https://github.com/borgesMagalhaes/nome-do-repositorio)
-  
-- [![Repositório mais popular](https://github-readme-stats.vercel.app/api/pin/?username=borgesMagalhaes&repo=outro-repositorio&theme=radical)](https://github.com/borgesMagalhaes/outro-repositorio)
 
 ---
 
@@ -66,3 +65,4 @@ Sou desenvolvedor **full-stack** apaixonado por criar soluções tecnológicas m
 ![Profile Views](https://komarev.com/ghpvc/?username=borgesMagalhaes&color=blue)
 
 ---
+
