@@ -8,5 +8,5 @@
 - Integração de API e autenticação via Active Directory
 
 📫 **Contato:**
-- [LinkedIn](https://www.linkedin.com/in/seuperfil/)
+- [LinkedIn](https://www.linkedin.com/in/bruno-magalh%C3%A3es-2b878a2a/)
 - [E-mail](mailto:borges.magalhaes@gmail.com)
