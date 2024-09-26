@@ -50,6 +50,8 @@ Aqui estão alguns dos meus projetos principais:
 ## 🔥 Atividade Recente
 
 <div align="center">
+  
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=borgesMagalhaes&theme=github_dark)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=borgesMagalhaes&theme=github-dark)
 
