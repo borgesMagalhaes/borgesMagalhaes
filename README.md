@@ -18,11 +18,11 @@ Sou desenvolvedor **full-stack** apaixonado por criar soluções tecnológicas m
 
 <div align="center">
   
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=borgesMagalhaes&show_icons=true&theme=radical&count_private=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=borgesMagalhaes&show_icons=true&theme=tokyonight&count_private=true)
   
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=borgesMagalhaes&layout=compact&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=borgesMagalhaes&layout=compact&theme=tokyonight)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=borgesMagalhaes&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=borgesMagalhaes&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
@@ -42,9 +42,9 @@ Sou desenvolvedor **full-stack** apaixonado por criar soluções tecnológicas m
 
 <div align="center">
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=borgesMagalhaes&theme=react-dark)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=borgesMagalhaes&theme=github-dark)
 
-![Contributions Yearly Heatmap](https://github-readme-stats.vercel.app/api?username=borgesMagalhaes&count_private=true&show_icons=true&include_all_commits=true&theme=chartreuse-dark)
+![Contributions Yearly Heatmap](https://github-readme-stats.vercel.app/api?username=borgesMagalhaes&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
 
 </div>
 
@@ -52,9 +52,9 @@ Sou desenvolvedor **full-stack** apaixonado por criar soluções tecnológicas m
 
 ## 💻 Projetos em Destaque
 
-- [![Repositório mais popular](https://github-readme-stats.vercel.app/api/pin/?username=borgesMagalhaes&repo=nome-do-repositorio&theme=radical)](https://github.com/borgesMagalhaes/nome-do-repositorio)
+- [![Repositório mais popular](https://github-readme-stats.vercel.app/api/pin/?username=borgesMagalhaes&repo=nome-do-repositorio&theme=tokyonight)](https://github.com/borgesMagalhaes/nome-do-repositorio)
   
-- [![Repositório mais popular](https://github-readme-stats.vercel.app/api/pin/?username=borgesMagalhaes&repo=outro-repositorio&theme=radical)](https://github.com/borgesMagalhaes/outro-repositorio)
+- [![Repositório mais popular](https://github-readme-stats.vercel.app/api/pin/?username=borgesMagalhaes&repo=outro-repositorio&theme=tokyonight)](https://github.com/borgesMagalhaes/outro-repositorio)
 
 ---
 
