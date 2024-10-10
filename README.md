@@ -18,7 +18,7 @@ Sou um desenvolvedor **full-stack** com experiência em tecnologias modernas e f
 
 <div align="center">
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=borgesMagalhaes&show_icons=true&theme=github_dark&count_private=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=borgesMagalhaes&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&cache_seconds=1800)
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=borgesMagalhaes&layout=compact&theme=github_dark)
 
