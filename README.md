@@ -88,6 +88,35 @@ Desenvolvedor **full-stack** com mais de 10 anos de experiência na construção
 
 ---
 
+## 🏆 Conquistas
+
+<div align="center">
+  
+[![Trophies](https://github-profile-trophy.vercel.app/?username=borgesMagalhaes&theme=github_dark&no-bg=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Estatísticas
+
+<div align="center">
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=borgesMagalhaes&show_icons=true&theme=github_dark&count_private=true)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=borgesMagalhaes&layout=compact&theme=github_dark)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=borgesMagalhaes&theme=github-dark-blue)](https://git.io/streak-stats)
+
+<!-- Corrigir este widget com o nome de usuário correto do WakaTime -->
+<!-- ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=SEU_USUARIO_WAKATIME&theme=github_dark) -->
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=borgesMagalhaes&theme=github-dark)
+
+</div>
+
+---
+
 ## 🔥 Projetos Recentes
 
 - **[Sistema de Gestão de Frota](https://github.com/borgesMagalhaes/frota)**  
@@ -109,4 +138,3 @@ Desenvolvedor **full-stack** com mais de 10 anos de experiência na construção
 ![Profile Views](https://komarev.com/ghpvc/?username=borgesMagalhaes&color=blue)
 
 ---
-
