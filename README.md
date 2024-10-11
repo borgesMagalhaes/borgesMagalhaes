@@ -88,15 +88,6 @@ Desenvolvedor **full-stack** com mais de 10 anos de experiência na construção
 
 ---
 
-[## 🏆 Certificações
-- **Microsoft Certified Professional (MCP)** - Desenvolvimento de aplicações Web.
-- **Scrum Master** - Gestão de projetos ágeis.
-- **ITIL Foundation** - Gestão de serviços de TI.
-- **CCNA (Cisco Certified Network Associate)** - Certificação em Redes e Roteamento.
-- **TOTVS Backoffice** - Desenvolvimento de Workflows e Integração com ERP.
-
----](url)
-
 ## 🔥 Projetos Recentes
 
 - **[Sistema de Gestão de Frota](https://github.com/borgesMagalhaes/frota)**  
