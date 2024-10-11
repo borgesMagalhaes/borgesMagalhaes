@@ -14,25 +14,6 @@ Sou um desenvolvedor **full-stack** com experiência em tecnologias modernas e f
 
 ---
 
-## 💻 Projetos em Destaque
-
-Aqui estão alguns dos meus projetos principais:
-
-- [📦 Sistema de Gestão de Frota](https://github.com/borgesMagalhaes/frota) – Sistema completo para gerenciamento de veículos e integração com API.
-- [🔐 Autenticação Active Directory](https://github.com/borgesMagalhaes/auth-AD) – Ferramenta de autenticação com Active Directory usando VB.NET.
-
----
-
-## 🏆 Conquistas
-
-<div align="center">
-  
-[![Trophies](https://github-profile-trophy.vercel.app/?username=borgesMagalhaes&theme=github_dark&no-bg=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 📈 Estatísticas
 
 <div align="center">
@@ -43,10 +24,39 @@ Aqui estão alguns dos meus projetos principais:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=borgesMagalhaes&theme=github-dark-blue)](https://git.io/streak-stats)
 
-<!-- Corrigir este widget com o nome de usuário correto do WakaTime -->
-<!-- ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=SEU_USUARIO_WAKATIME&theme=github_dark) -->
+</div>
+
+
+---
+
+## 🏆 Conquistas
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=borgesMagalhaes&theme=github_dark&no-bg=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 💻 Projetos em Destaque
+
+Aqui estão alguns dos meus projetos principais:
+
+- [📦 Sistema de Gestão de Frota](https://github.com/borgesMagalhaes/frota) – Sistema completo para gerenciamento de veículos e integração com API.
+- [🔐 Autenticação Active Directory](https://github.com/borgesMagalhaes/auth-AD) – Ferramenta de autenticação com Active Directory usando VB.NET.
+
+---
+
+## 🔥 Atividade Recente
+
+<div align="center">
+  
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=borgesMagalhaes&theme=github_dark)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=borgesMagalhaes&theme=github-dark)
+
+![Contributions Yearly Heatmap](https://github-readme-stats.vercel.app/api?username=borgesMagalhaes&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark)
 
 </div>
 
@@ -58,6 +68,5 @@ Aqui estão alguns dos meus projetos principais:
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:borges.magalhaes@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=borgesMagalhaes&color=blue)
-
 ---
 
