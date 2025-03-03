@@ -93,7 +93,7 @@ Desenvolvedor **full-stack** com mais de 10 anos de experiência em aplicações
   Exibe estatísticas de produtividade (tempo de codificação, linguagens, etc.) do WakaTime.
   Para que o widget funcione, substitua "SEU_USUARIO_WAKATIME" pelo seu username do WakaTime.
 -->
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=SEU_USUARIO_WAKATIME&theme=github_dark)](https://github.com/anmol098/waka-readme)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=borgesMagalhaes&theme=github_dark)](https://github.com/anmol098/waka-readme)
   
 </div>
 
