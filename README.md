@@ -86,7 +86,7 @@ Desenvolvedor **full-stack** com mais de 10 anos de experiência em aplicações
   Adicione abaixo um gráfico personalizado que mostre os horários em que você costuma realizar commits.
   Você pode gerar um gráfico através de ferramentas de análise de commits e hospedá-lo, substituindo o link abaixo.
 -->
-![Horários de Commit](https://raw.githubusercontent.com/SEU_USUARIO/commit-times-dashboard/main/commit-times.png)
+![Horários de Commit](https://raw.githubusercontent.com/borgesMagalhaes/commit-times-dashboard/main/commit-times.png)
 
 ### Métricas WakaTime
 <!--
