@@ -5,64 +5,38 @@ Desenvolvedor **full-stack** com mais de 10 anos de experiência em aplicações
 
 ---
 
-## 🚀 Tecnologias que Utilizo
+## 🚀 Tecnologias & Competências
 
+### Linguagens & Frameworks
 <div align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/VB.NET-blueviolet?style=for-the-badge&logo=.net&logoColor=white" alt="VB.NET" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/ASP.NET%20MVC-blue?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET MVC" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <br><br>
+</div>
+
+### Integração & Banco de Dados
+<div align="center">
   <img src="https://img.shields.io/badge/APIs%20REST-008080?style=for-the-badge&logo=api&logoColor=white" alt="APIs REST" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Active%20Directory-0000FF?style=for-the-badge&logo=microsoft&logoColor=white" alt="Active Directory" />
-  <br><br>
+</div>
+
+### Ferramentas & Metodologias
+<div align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
-  <br><br>
   <img src="https://img.shields.io/badge/Scrum/Kanban-0D5C9E?style=for-the-badge&logo=scrum&logoColor=white" alt="Scrum/Kanban" />
-  <img src="https://img.shields.io/badge/DevSecOps-2F353A?style=for-the-badge&logo=security&logoColor=white" alt="DevSecOps" />
-  <img src="https://img.shields.io/badge/OWASP-000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
-</div>
-
----
-
-## 🔧 Principais Competências
-
-### Linguagens & Frameworks
-<div>
-  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
-  <img alt="VB.NET" src="https://img.shields.io/badge/VB.NET-blueviolet?style=flat&logo=.net&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img alt="ASP.NET MVC" src="https://img.shields.io/badge/ASP.NET%20MVC-blue?style=flat&logo=.net&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
-</div>
-
-### Integração & Banco de Dados
-<div>
-  <img alt="APIs REST" src="https://img.shields.io/badge/APIs%20REST-008080?style=flat&logo=api&logoColor=white" />
-  <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img alt="Active Directory" src="https://img.shields.io/badge/Active%20Directory-0000FF?style=flat&logo=microsoft&logoColor=white" />
-</div>
-
-### Ferramentas & Metodologias
-<div>
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white" />
-  <img alt="Agile" src="https://img.shields.io/badge/Scrum/Kanban-0D5C9E?style=flat&logo=scrum&logoColor=white" />
 </div>
 
 ### DevSecOps & Segurança
-<div>
-  <img alt="DevSecOps" src="https://img.shields.io/badge/DevSecOps-2F353A?style=flat&logo=security&logoColor=white" />
-  <img alt="OWASP" src="https://img.shields.io/badge/OWASP-000?style=flat&logo=owasp&logoColor=white" />
+<div align="center">
+  <img src="https://img.shields.io/badge/DevSecOps-2F353A?style=for-the-badge&logo=security&logoColor=white" alt="DevSecOps" />
+  <img src="https://img.shields.io/badge/OWASP-000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
 </div>
 
 ---
@@ -79,22 +53,14 @@ Desenvolvedor **full-stack** com mais de 10 anos de experiência em aplicações
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=borgesMagalhaes&theme=github-dark-blue)](https://git.io/streak-stats)
 
-<!-- 
-  GitHub Activity Graph (versão atualizada)
-  Se quiser usar a versão anterior do Herokuapp, pode substituir o link.
--->
 [![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=borgesMagalhaes&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Horários de Commit
-<!-- 
-  Substitua o link abaixo se você tiver um repositório com a imagem do commit times.
-  Se não tiver, deixe como está ou remova a seção.
--->
 ![Horários de Commit](https://raw.githubusercontent.com/borgesMagalhaes/commit-times-dashboard/main/commit-times.png)
 
 ### Métricas WakaTime
 [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=brunomagalhaes&theme=github_dark)](https://github.com/anmol098/waka-readme)
-  
+
 </div>
 
 ---
