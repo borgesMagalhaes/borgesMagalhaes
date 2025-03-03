@@ -93,7 +93,7 @@ Desenvolvedor **full-stack** com mais de 10 anos de experiência em aplicações
   Exibe estatísticas de produtividade (tempo de codificação, linguagens, etc.) do WakaTime.
   Para que o widget funcione, substitua "SEU_USUARIO_WAKATIME" pelo seu username do WakaTime.
 -->
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=borgesMagalhaes&theme=github_dark)](https://github.com/anmol098/waka-readme)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=brunomagalhaes&theme=github_dark)](https://github.com/anmol098/waka-readme)
   
 </div>
 
@@ -155,9 +155,7 @@ Desenvolvedor **full-stack** com mais de 10 anos de experiência em aplicações
 - **Certificações DevSecOps & Docker:**  
   Certificações específicas em Docker, containerização e práticas de segurança (DevSecOps) – *(Adicione os links ou selos das certificações, se houver)*
 
-<div align="center">
-  [![Trophies](https://github-profile-trophy.vercel.app/?username=borgesMagalhaes&theme=github_dark&no-bg=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
+[![Trophies](https://github-profile-trophy.vercel.app/?username=borgesMagalhaes&theme=github_dark&no-bg=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
