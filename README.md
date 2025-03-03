@@ -79,20 +79,20 @@ Desenvolvedor **full-stack** com mais de 10 anos de experiência em aplicações
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=borgesMagalhaes&theme=github-dark-blue)](https://git.io/streak-stats)
 
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=borgesMagalhaes&theme=github-dark)](https://github.com/borgesMagalhaes)
+<!-- 
+  GitHub Activity Graph (versão atualizada)
+  Se quiser usar a versão anterior do Herokuapp, pode substituir o link.
+-->
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=borgesMagalhaes&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Horários de Commit
 <!-- 
-  Adicione abaixo um gráfico personalizado que mostre os horários em que você costuma realizar commits.
-  Você pode gerar um gráfico através de ferramentas de análise de commits e hospedá-lo, substituindo o link abaixo.
+  Substitua o link abaixo se você tiver um repositório com a imagem do commit times.
+  Se não tiver, deixe como está ou remova a seção.
 -->
 ![Horários de Commit](https://raw.githubusercontent.com/borgesMagalhaes/commit-times-dashboard/main/commit-times.png)
 
 ### Métricas WakaTime
-<!--
-  Exibe estatísticas de produtividade (tempo de codificação, linguagens, etc.) do WakaTime.
-  Para que o widget funcione, substitua "SEU_USUARIO_WAKATIME" pelo seu username do WakaTime.
--->
 [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=brunomagalhaes&theme=github_dark)](https://github.com/anmol098/waka-readme)
   
 </div>
@@ -180,7 +180,7 @@ Desenvolvedor **full-stack** com mais de 10 anos de experiência em aplicações
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/borgesMagalhaes)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/SEU_TWITTER)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:borges.magalhaes@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Website-000000?style=flat&logo=about.me&logoColor=white)](https://www.seusite.com)
+[![Portfolio](https://img.shields.io/badge/Website-000000?style=flat&logo=about.me&logoColor=white)](https://brunomagalhaes.dev.br/)
 
 </div>
 
