@@ -5,7 +5,9 @@ Desenvolvedor **full-stack** com mais de 10 anos de experiência em aplicações
 
 ---
 
-## 🚀 Tecnologias & Competências
+<details>
+<summary><strong>🚀 Tecnologias & Competências</strong></summary>
+<br/>
 
 ### Linguagens & Frameworks
 <div align="center">
@@ -16,20 +18,24 @@ Desenvolvedor **full-stack** com mais de 10 anos de experiência em aplicações
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </div>
 
-### Integração & Banco de Dados
+### Integração & Bancos de Dados
 <div align="center">
   <img src="https://img.shields.io/badge/APIs%20REST-008080?style=for-the-badge&logo=api&logoColor=white" alt="APIs REST" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/MariaDB-01529E?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Active%20Directory-0000FF?style=for-the-badge&logo=microsoft&logoColor=white" alt="Active Directory" />
 </div>
 
 ### Ferramentas & Metodologias
 <div align="center">
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
   <img src="https://img.shields.io/badge/Scrum/Kanban-0D5C9E?style=for-the-badge&logo=scrum&logoColor=white" alt="Scrum/Kanban" />
 </div>
 
@@ -39,9 +45,13 @@ Desenvolvedor **full-stack** com mais de 10 anos de experiência em aplicações
   <img src="https://img.shields.io/badge/OWASP-000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
 </div>
 
+</details>
+
 ---
 
-## 📊 Dashboards e Métricas
+<details>
+<summary><strong>📊 Dashboards e Métricas</strong></summary>
+<br/>
 
 <div align="center">
 
@@ -63,44 +73,52 @@ Desenvolvedor **full-stack** com mais de 10 anos de experiência em aplicações
 
 </div>
 
+</details>
+
 ---
 
-## 💼 Experiência Profissional
+<details>
+<summary><strong>💼 Experiência Profissional</strong></summary>
+<br/>
 
 ### Arquiteto de Software  
 **LAMPP-IT SOLUTIONS** – São Luís, MA  
 📅 *Fev 2022 – Fev 2024*  
-- Definição da arquitetura de soluções e requisitos técnicos para projetos governamentais.
-- Coordenação de equipes utilizando metodologias ágeis (Scrum e Kanban).
+- Definição da arquitetura de soluções e requisitos técnicos para projetos governamentais.  
+- Coordenação de equipes utilizando metodologias ágeis (Scrum e Kanban).  
 - Uso de ferramentas como Power Designer e Trello para modelagem e gestão de projetos.
 
 ### Supervisor de Banco de Dados – SQL Server  
 **Secretaria Municipal de Saúde** – São Luís, MA  
 📅 *Fev 2022 – Fev 2024*  
-- Gestão e liderança da equipe de DBAs, assegurando integridade e alta disponibilidade dos dados.
+- Gestão e liderança da equipe de DBAs, assegurando integridade e alta disponibilidade dos dados.  
 - Otimização de operações e implementação de estratégias robustas de backup e recuperação.
 
 ### Supervisor de Desenvolvimento de Sistemas  
 **Secretaria de Estado da Educação do Maranhão** – São Luís, MA  
 📅 *Nov 2019 – Fev 2022*  
-- Liderança de equipes de desenvolvimento em projetos educacionais.
+- Liderança de equipes de desenvolvimento em projetos educacionais.  
 - Desenvolvimento full-stack com .NET, integração de serviços SOAP/REST e análise de sistemas.
 
 ### Analista de Sistemas Sênior  
 **Secretaria de Estado da Educação do Maranhão** – São Luís, MA  
 📅 *Mar 2011 – Dez 2019*  
-- Criação e evolução de sistemas corporativos com VB.NET, Crystal Reports e SQL Server.
+- Criação e evolução de sistemas corporativos com VB.NET, Crystal Reports e SQL Server.  
 - Suporte técnico e documentação de soluções para ambientes educacionais.
 
 ### Técnico de Infraestrutura  
 **VECTRA Consultoria e Serviços** – São Luís, MA  
 📅 *Out 2009 – Mar 2011*  
-- Administração de redes LAN/WAN e configuração de roteadores CISCO e Huawei.
+- Administração de redes LAN/WAN e configuração de roteadores CISCO e Huawei.  
 - Monitoramento e gerenciamento de desempenho de rede, garantindo níveis de SLA.
+
+</details>
 
 ---
 
-## 🎓 Formação Acadêmica
+<details>
+<summary><strong>🎓 Formação Acadêmica</strong></summary>
+<br/>
 
 - **Especialização em Ciência de Dados: Big Data e Analytics**  
   UNYLEYA EDITORA E CURSOS S/A – Brasília, DF (2021 – 2022)
@@ -114,18 +132,26 @@ Desenvolvedor **full-stack** com mais de 10 anos de experiência em aplicações
 - **Bacharelado em Sistemas de Informação**  
   Centro Universitário do Maranhão (UniCeuma) – São Luís, MA (2005 – 2011)
 
+</details>
+
 ---
 
-## 🏆 Conquistas e Certificações
+<details>
+<summary><strong>🏆 Conquistas e Certificações</strong></summary>
+<br/>
 
 - **Certificações DevSecOps & Docker:**  
-  Certificações específicas em Docker, containerização e práticas de segurança (DevSecOps) – *(Adicione os links ou selos das certificações, se houver)*
+  Certificações específicas em Docker, containerização e práticas de segurança (DevSecOps) – *(Adicione links ou selos, se houver)*
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=borgesMagalhaes&theme=github_dark&no-bg=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
+</details>
+
 ---
 
-## 🔥 Projetos Recentes
+<details>
+<summary><strong>🔥 Projetos Recentes</strong></summary>
+<br/>
 
 - **[Sistema de Gestão de Frota](https://github.com/borgesMagalhaes/frota)**  
   Plataforma completa para gerenciamento de veículos com integração de APIs e monitoramento em tempo real.
@@ -136,9 +162,13 @@ Desenvolvedor **full-stack** com mais de 10 anos de experiência em aplicações
 - **[Portal de Cadastro de Eventos](https://github.com/borgesMagalhaes/event-registration)**  
   Plataforma web para gestão de eventos com autenticação via OAuth e integração com serviços externos.
 
+</details>
+
 ---
 
-## 🌐 Redes Sociais
+<details>
+<summary><strong>🌐 Redes Sociais</strong></summary>
+<br/>
 
 <div align="center">
 
@@ -149,6 +179,8 @@ Desenvolvedor **full-stack** com mais de 10 anos de experiência em aplicações
 [![Portfolio](https://img.shields.io/badge/Website-000000?style=flat&logo=about.me&logoColor=white)](https://brunomagalhaes.dev.br/)
 
 </div>
+
+</details>
 
 ---
 
