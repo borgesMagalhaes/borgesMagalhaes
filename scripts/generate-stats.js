@@ -113,63 +113,116 @@ function processPRs(prs) {
 async function generateChart() {
   const labels = Array.from({ length: 24 }, (_, i) => `${i}h`);
 
-  const chartConfig = {
-    type: "line",
-    data: {
-      labels,
-      datasets: [
-        {
-          label: "Commits",
-          data: commitBins,
-          borderColor: "#36A2EB",
-          backgroundColor: "rgba(54,162,235,0.2)",
-          fill: true,
-        },
-        {
-          label: "Issues",
-          data: issueBins,
-          borderColor: "#F97316",
-          backgroundColor: "rgba(249,115,22,0.2)",
-          fill: true,
-        },
-        {
-          label: "PRs",
-          data: prBins,
-          borderColor: "#10B981",
-          backgroundColor: "rgba(16,185,129,0.2)",
-          fill: true,
-        },
-      ],
-    },
-    options: {
-      scales: {
-        x: { ticks: { color: "#fff" } },
-        y: { ticks: { color: "#fff" } },
+  async function generateChart() {
+    const labels = Array.from({ length: 24 }, (_, i) => `${i}h`);
+  
+    const chartConfig = {
+      type: "line",
+      data: {
+        labels,
+        datasets: [
+          {
+            label: "Commits",
+            data: commitBins,
+            borderColor: "#36A2EB",
+            backgroundColor: "rgba(54,162,235,0.2)",
+            fill: true,
+            tension: 0.3, // deixa as linhas levemente curvas
+          },
+          {
+            label: "Issues",
+            data: issueBins,
+            borderColor: "#F97316",
+            backgroundColor: "rgba(249,115,22,0.2)",
+            fill: true,
+            tension: 0.3,
+          },
+          {
+            label: "PRs",
+            data: prBins,
+            borderColor: "#10B981",
+            backgroundColor: "rgba(16,185,129,0.2)",
+            fill: true,
+            tension: 0.3,
+          },
+        ],
       },
-      plugins: {
-        legend: { labels: { color: "#fff" } },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        scales: {
+          x: {
+            ticks: {
+              color: "#fff",
+              font: { size: 12 },
+            },
+            grid: {
+              color: "rgba(255, 255, 255, 0.2)", // linhas de grade mais suaves
+            },
+          },
+          y: {
+            beginAtZero: true, // começa do zero
+            ticks: {
+              color: "#fff",
+              font: { size: 12 },
+            },
+            grid: {
+              color: "rgba(255, 255, 255, 0.2)",
+            },
+          },
+        },
+        plugins: {
+          legend: {
+            position: "bottom",
+            labels: {
+              color: "#fff",
+              font: { size: 14 },
+            },
+          },
+          title: {
+            display: true,
+            text: "Atividade nos últimos 30 dias (Commits, Issues, PRs)",
+            color: "#fff",
+            font: {
+              size: 18,
+            },
+          },
+          tooltip: {
+            enabled: true,
+            backgroundColor: "#333",
+            titleColor: "#fff",
+            bodyColor: "#fff",
+          },
+        },
+        backgroundColor: "#1f2937",
       },
-      backgroundColor: "#1f2937"
-    },
-  };
-
-  const res = await fetch("https://quickchart.io/chart", {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({
-      width: 800,
-      height: 400,
-      format: "png",
-      chart: chartConfig,
-      backgroundColor: "#1f2937",
-    }),
-  });
-
-  if (!res.ok) {
-    console.error("Erro ao gerar chart:", res.status, await res.text());
-    return;
+    };
+  
+    const res = await fetch("https://quickchart.io/chart", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        width: 800,
+        height: 400,
+        format: "png",
+        chart: chartConfig,
+        backgroundColor: "#1f2937",
+      }),
+    });
+  
+    if (!res.ok) {
+      console.error("Erro ao gerar chart:", res.status, await res.text());
+      return;
+    }
+  
+    // Se quiser deletar o arquivo antigo antes de criar o novo:
+    // try { fs.unlinkSync("gh-stats.png"); } catch (_) {}
+  
+    const arrayBuffer = await res.arrayBuffer();
+    fs.writeFileSync("gh-stats.png", Buffer.from(arrayBuffer), "binary");
+    console.log("Gerado gh-stats.png com sucesso!");
   }
-
+  
   try {
     fs.unlinkSync("gh-stats.png");
   } catch (err) {
