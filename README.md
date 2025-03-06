@@ -54,20 +54,20 @@ Desenvolvedor **full-stack** com mais de 10 anos de experiência em aplicações
 ## 📊 Dashboards e Métricas
 
 | Estatísticas Gerais | Linguagens Mais Usadas |
-|---|---|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=borgesMagalhaes&show_icons=true&theme=github_dark&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borgesMagalhaes&layout=compact&theme=github_dark) |
+|:---:|:---:|
+| <img width="420px" src="https://github-readme-stats.vercel.app/api?username=borgesMagalhaes&show_icons=true&theme=github_dark&count_private=true"/> | <img width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borgesMagalhaes&layout=compact&theme=github_dark"/> |
 
 | GitHub Streak | GitHub Activity Graph |
-|---------------|-----------------------|
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=borgesMagalhaes&theme=github-dark&hide_border=true) | ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=borgesMagalhaes&theme=github-dark) |
+|:---:|:---:|
+| <img width="420px" src="https://github-readme-streak-stats.herokuapp.com/?user=borgesMagalhaes&theme=github-dark&hide_border=true"/> | <img width="420px" src="https://github-readme-activity-graph.vercel.app/graph?username=borgesMagalhaes&theme=github-dark"/> |
 
 | WakaTime Estatísticas | Visitas no Perfil |
-|-----------------------|-------------------|
-| ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=borgesMagalhaes&theme=github_dark) | ![Views](https://komarev.com/ghpvc/?username=borgesMagalhaes&color=blue) |
+|:---:|:---:|
+| <img width="420px" src="https://github-readme-stats.vercel.app/api/wakatime?username=brunomagalhaes&theme=github_dark"/> | <img width="420px" src="https://komarev.com/ghpvc/?username=borgesMagalhaes&color=blue"/> |
 
 | Troféus GitHub |
-|---------------|
-| ![Trophy](https://github-profile-trophy.vercel.app/?username=borgesMagalhaes&theme=github_dark&no-bg=true&row=1&column=6) |
+|:---:|
+| <img width="860px" src="https://github-profile-trophy.vercel.app/?username=borgesMagalhaes&theme=github_dark&no-bg=true&row=1&column=6"/> |
 
 ---
 
