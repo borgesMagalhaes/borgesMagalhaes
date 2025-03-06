@@ -254,3 +254,4 @@ Desenvolvedor **full-stack** com mais de 10 anos de experiência em aplicações
 
 > “Talk is cheap. Show me the code.”  
 > — Linus Torvalds
+Melhore também o tema e se possível coloque efeitos 
