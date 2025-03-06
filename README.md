@@ -69,6 +69,16 @@ Desenvolvedor **full-stack** com mais de 10 anos de experiência em aplicações
 |:---:|
 | <img width="860px" src="https://github-profile-trophy.vercel.app/?username=borgesMagalhaes&theme=github_dark&no-bg=true&row=1&column=6"/> |
 
+<details open>
+  <summary><strong>Meu Dashboard Global</strong></summary>
+  <br/>
+
+  Este repositório gera um gráfico (`gh-stats.png`) que soma todos os Commits, Issues e PRs  
+  de todos os repositórios onde sou owner/colaborador (últimos 30 dias).
+
+  ![Estatísticas de Todos os Repositórios](./gh-stats.png)
+
+</details>
 ---
 
 ## 💼 Experiência Profissional
