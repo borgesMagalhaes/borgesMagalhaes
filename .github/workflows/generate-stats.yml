@@ -8,6 +8,10 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    # Adicione esta parte:
+    permissions:
+      contents: write
+      
     steps:
       # 1) Faz checkout com as credenciais persistidas (ou seja, NÃO use persist-credentials: false)
       - name: Checkout
