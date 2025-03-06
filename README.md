@@ -57,10 +57,9 @@ Desenvolvedor **full-stack** com mais de 10 anos de experiência em aplicações
 |---|---|
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=borgesMagalhaes&show_icons=true&theme=github_dark&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borgesMagalhaes&layout=compact&theme=github_dark) |
 
-| GitHub Streak | Atividade GitHub (últimos 30 dias) |
+| GitHub Streak | GitHub Activity Graph |
 |---|---|
-|
-![GitHub Streak](https://streak-stats.demolab.com?user=borgesMagalhaes&theme=github-dark) | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=borgesMagalhaes&theme=github-dark) |
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=borgesMagalhaes&theme=github-dark-blue) | ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=borgesMagalhaes&theme=github-dark) |
 
 | WakaTime Estatísticas | Visitas no Perfil |
 |---|---|
