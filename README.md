@@ -77,12 +77,13 @@ Desenvolvedor **full-stack** com mais de 10 anos de experiência em aplicações
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=borgesMagalhaes&theme=github-dark-blue)](https://git.io/streak-stats)
   
-  [![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=borgesMagalhaes&theme=github-dark)](https://github.com/borgesMagalhaes/github-readme-activity-graph)
-
 ### Horários de Commit
-[![GitHub Commit Activity](https://github-readme-activity-graph.cyclic.app/graph?username=borgesMagalhaes&theme=github)](https://github.com/borgesMagalhaes)
+[![GitHub Streak](https://streak-stats.demolab.com?user=borgesMagalhaes&theme=github-dark)](https://github.com/borgesMagalhaes)
 
-### Horários de Commit
+### GitHub Activity Graph
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=borgesMagalhaes&theme=github-dark)](https://github.com/borgesMagalhaes)
+
+### Horários de Commit WakaTime
 [![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=brunomagalhaes)](https://wakatime.com/@brunomagalhaes)
 
 ### Métricas WakaTime
