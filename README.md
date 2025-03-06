@@ -79,8 +79,11 @@ Desenvolvedor **full-stack** com mais de 10 anos de experiência em aplicações
   
   [![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=borgesMagalhaes&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-  ### Horários de Commit
-  ![Horários de Commit](https://raw.githubusercontent.com/borgesMagalhaes/commit-times-dashboard/main/commit-times.png)
+### Horários de Commit
+[![GitHub Commit Activity](https://github-readme-activity-graph.cyclic.app/graph?username=brunomagalhaes&theme=github)](https://github.com/brunomagalhaes)
+
+### Horários de Commit
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=brunomagalhaes)](https://wakatime.com/@brunomagalhaes)
 
 ### Métricas WakaTime
 [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=brunomagalhaes)](https://wakatime.com/@brunomagalhaes)
