@@ -7,7 +7,7 @@ Desenvolvedor **full-stack** com mais de 10 anos de experiência em aplicações
 
 ## 🚀 Tecnologias & Competências
 
-<details>
+<details open>
   <summary><strong>Linguagens & Frameworks</strong></summary>
   <br/>
 
@@ -20,7 +20,7 @@ Desenvolvedor **full-stack** com mais de 10 anos de experiência em aplicações
   </div>
 </details>
 
-<details>
+<details open>
   <summary><strong>Integração & Bancos de Dados</strong></summary>
   <br/>
 
@@ -34,7 +34,7 @@ Desenvolvedor **full-stack** com mais de 10 anos de experiência em aplicações
   </div>
 </details>
 
-<details>
+<details open>
   <summary><strong>Ferramentas de Desenvolvimento</strong></summary>
   <br/>
 
@@ -45,7 +45,7 @@ Desenvolvedor **full-stack** com mais de 10 anos de experiência em aplicações
   </div>
 </details>
 
-<details>
+<details open>
   <summary><strong>DevSecOps & Segurança</strong></summary>
   <br/>
 
@@ -63,7 +63,7 @@ Desenvolvedor **full-stack** com mais de 10 anos de experiência em aplicações
 
 ## 📊 Dashboards e Métricas
 
-<details>
+<details open>
   <summary><strong>Ver Gráficos do GitHub</strong></summary>
   <br/>
 
@@ -88,7 +88,7 @@ Desenvolvedor **full-stack** com mais de 10 anos de experiência em aplicações
   </div>
 </details>
 
-<details>
+<details open>
   <summary><strong>Meu Dashboard Global</strong></summary>
   <br/>
 
@@ -103,7 +103,7 @@ Desenvolvedor **full-stack** com mais de 10 anos de experiência em aplicações
 
 ## 💼 Experiência Profissional
 
-<details>
+<details open>
   <summary><strong>Arquiteto de Software – LAMPP-IT SOLUTIONS</strong></summary>
   <br/>
 
@@ -114,7 +114,7 @@ Desenvolvedor **full-stack** com mais de 10 anos de experiência em aplicações
   - Uso de ferramentas como Power Designer e Trello para modelagem e gestão de projetos.
 </details>
 
-<details>
+<details open>
   <summary><strong>Supervisor de Banco de Dados – SQL Server – Secretaria Municipal de Saúde</strong></summary>
   <br/>
 
@@ -124,7 +124,7 @@ Desenvolvedor **full-stack** com mais de 10 anos de experiência em aplicações
   - Otimização de operações e implementação de estratégias robustas de backup e recuperação.
 </details>
 
-<details>
+<details open>
   <summary><strong>Supervisor de Desenvolvimento de Sistemas – Secretaria de Estado da Educação do Maranhão</strong></summary>
   <br/>
 
@@ -134,7 +134,7 @@ Desenvolvedor **full-stack** com mais de 10 anos de experiência em aplicações
   - Desenvolvimento full-stack com .NET, integração de serviços SOAP/REST e análise de sistemas.
 </details>
 
-<details>
+<details open>
   <summary><strong>Analista de Sistemas Sênior – Secretaria de Estado da Educação do Maranhão</strong></summary>
   <br/>
 
@@ -144,7 +144,7 @@ Desenvolvedor **full-stack** com mais de 10 anos de experiência em aplicações
   - Suporte técnico e documentação de soluções para ambientes educacionais.
 </details>
 
-<details>
+<details open>
   <summary><strong>Técnico de Infraestrutura – VECTRA Consultoria e Serviços</strong></summary>
   <br/>
 
@@ -158,25 +158,25 @@ Desenvolvedor **full-stack** com mais de 10 anos de experiência em aplicações
 
 ## 🎓 Formação Acadêmica
 
-<details>
+<details open>
   <summary><strong>Especialização em Ciência de Dados: Big Data e Analytics</strong></summary>
   <br/>
   **UNYLEYA EDITORA E CURSOS S/A – Brasília, DF (2021 – 2022)**
 </details>
 
-<details>
+<details open>
   <summary><strong>Especialização em Lato Sensu em Análise e Projeto de Sistemas</strong></summary>
   <br/>
   **Universidade Federal do Maranhão (UFMA) – São Luís, MA (2014 – 2016)**
 </details>
 
-<details>
+<details open>
   <summary><strong>Especialização em Planejamento e Implementação de Redes LAN e WAN</strong></summary>
   <br/>
   **Universidade Estadual do Maranhão (UEMA) – São Luís, MA (2013 – 2014)**
 </details>
 
-<details>
+<details open>
   <summary><strong>Bacharelado em Sistemas de Informação</strong></summary>
   <br/>
   **Centro Universitário do Maranhão (UniCeuma) – São Luís, MA (2005 – 2011)**
@@ -186,7 +186,7 @@ Desenvolvedor **full-stack** com mais de 10 anos de experiência em aplicações
 
 ## 🏆 Conquistas e Certificações
 
-<details>
+<details open>
   <summary><strong>Certificações DevSecOps & Docker</strong></summary>
   <br/>
 
@@ -199,7 +199,7 @@ Desenvolvedor **full-stack** com mais de 10 anos de experiência em aplicações
 
 ## 🔥 Projetos Recentes
 
-<details>
+<details open>
   <summary><strong>Sistema de Gestão de Frota</strong></summary>
   <br/>
 
@@ -207,7 +207,7 @@ Desenvolvedor **full-stack** com mais de 10 anos de experiência em aplicações
   Plataforma completa para gerenciamento de veículos com integração de APIs e monitoramento em tempo real.
 </details>
 
-<details>
+<details open>
   <summary><strong>Autenticação com Active Directory</strong></summary>
   <br/>
 
@@ -215,7 +215,7 @@ Desenvolvedor **full-stack** com mais de 10 anos de experiência em aplicações
   Solução robusta em VB.NET para autenticação corporativa via Active Directory.
 </details>
 
-<details>
+<details open>
   <summary><strong>Portal de Cadastro de Eventos</strong></summary>
   <br/>
 
