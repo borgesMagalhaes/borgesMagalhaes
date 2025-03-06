@@ -69,10 +69,6 @@ Desenvolvedor **full-stack** com mais de 10 anos de experiência em aplicações
 |:---:|
 | <img width="860px" src="https://github-profile-trophy.vercel.app/?username=borgesMagalhaes&theme=github_dark&no-bg=true&row=1&column=6"/> |
 
-| Visitas no Perfil |
-|:---:|
-| <img width="auto" src="https://komarev.com/ghpvc/?username=borgesMagalhaes&color=blue"/> |
-
 ---
 
 ## 💼 Experiência Profissional
@@ -134,4 +130,8 @@ Desenvolvedor **full-stack** com mais de 10 anos de experiência em aplicações
   <a href="https://brunomagalhaes.dev.br/">
     <img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=about.me&logoColor=white"/>
   </a>
+  
+  | Visitas no Perfil |
+  |:---:|
+  | <img width="auto" src="https://komarev.com/ghpvc/?username=borgesMagalhaes&color=blue"/> |
 </div>
