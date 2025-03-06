@@ -110,9 +110,6 @@ function processPRs(prs) {
 }
 
 /** Gera um gráfico com QuickChart.io e salva em gh-stats.png */
-async function generateChart() {
-  const labels = Array.from({ length: 24 }, (_, i) => `${i}h`);
-
   async function generateChart() {
     const labels = Array.from({ length: 24 }, (_, i) => `${i}h`);
   
