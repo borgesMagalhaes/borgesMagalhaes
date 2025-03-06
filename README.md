@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media3.giphy.com/media/BW51OCstarPBm/giphy.gif?cid=6c09b952vwth9pl86cvaiclez8gwu7k7izxekzz70fiuudm1&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="Coding GIF" width="800px"/>
-</p>
-
 # Bruno Magalhães – Engenheiro de Software & Especialista em DevSecOps  
 
 Olá, eu sou o **Bruno Magalhães**.  
