@@ -78,7 +78,7 @@ Desenvolvedor **full-stack** com mais de 10 anos de experiência em aplicações
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=borgesMagalhaes&theme=github-dark-blue)](https://git.io/streak-stats)
   
 ### Horários de Commit
-[![GitHub Streak](https://streak-stats.demolab.com?user=borgesMagalhaes&theme=github-dark)](https://github.com/borgesMagalhaes)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=borgesMagalhaes&theme=github-dark)](https://github.com/borgesMagalhaes)
 
 ### GitHub Activity Graph
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=borgesMagalhaes&theme=github-dark)](https://github.com/borgesMagalhaes)
