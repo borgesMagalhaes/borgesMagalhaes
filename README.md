@@ -59,7 +59,7 @@ Desenvolvedor **full-stack** com mais de 10 anos de experiência em aplicações
 
 | GitHub Streak |
 |---|---|
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=borgesMagalhaes&theme=github-dark&hide_border=true) |
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=borgesMagalhaes&theme=github-dark&hide_border=true) |
 
 | WakaTime Estatísticas | Visitas no Perfil |
 |---|---|
