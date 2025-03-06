@@ -61,13 +61,17 @@ Desenvolvedor **full-stack** com mais de 10 anos de experiência em aplicações
 |---------------|-----------------------|
 | <img width="420px" src="https://streak-stats.demolab.com?user=borgesMagalhaes&theme=github-dark&hide_border=true"/> | <img width="420px" src="https://github-readme-activity-graph.vercel.app/graph?username=borgesMagalhaes&theme=github-dark"/> |
 
-| WakaTime Estatísticas | Visitas no Perfil |
+| WakaTime Estatísticas |
 |:---:|:---:|
-| <img width="420px" src="https://github-readme-stats.vercel.app/api/wakatime?username=brunomagalhaes&theme=github_dark"/> | <img width="420px" src="https://komarev.com/ghpvc/?username=borgesMagalhaes&color=blue"/> |
+| <img width="860px" src="https://github-readme-stats.vercel.app/api/wakatime?username=brunomagalhaes&theme=github_dark"/> | 
 
 | Troféus GitHub |
 |:---:|
 | <img width="860px" src="https://github-profile-trophy.vercel.app/?username=borgesMagalhaes&theme=github_dark&no-bg=true&row=1&column=6"/> |
+
+| Visitas no Perfil |
+|:---:|
+| <img width="auto" src="https://komarev.com/ghpvc/?username=borgesMagalhaes&color=blue"/> |
 
 ---
 
