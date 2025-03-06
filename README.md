@@ -75,7 +75,8 @@ Desenvolvedor **full-stack** com mais de 10 anos de experiência em aplicações
   
   [![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=borgesMagalhaes&layout=compact&theme=github_dark)](https://github.com/borgesMagalhaes)
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=borgesMagalhaes&theme=github-dark-blue)](https://git.io/streak-stats)
+### GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=borgesMagalhaes&theme=github-dark)](https://github.com/borgesMagalhaes)
   
 ### Horários de Commit
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=borgesMagalhaes&theme=github-dark)](https://github.com/borgesMagalhaes)
