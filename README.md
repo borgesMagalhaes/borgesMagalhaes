@@ -59,7 +59,8 @@ Desenvolvedor **full-stack** com mais de 10 anos de experiência em aplicações
 
 | GitHub Streak | Atividade GitHub (últimos 30 dias) |
 |---|---|
-| ![GitHub Streak](https://streak-stats.demolab.com?user=borgesMagalhaes&theme=github-dark) | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=borgesMagalhaes&theme=github-dark) |
+| ### GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=borgesMagalhaes&theme=github-dark) | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=borgesMagalhaes&theme=github-dark) |
 
 | WakaTime Estatísticas | Visitas no Perfil |
 |---|---|
@@ -108,8 +109,6 @@ Desenvolvedor **full-stack** com mais de 10 anos de experiência em aplicações
 ---
 
 ## 🏆 Certificações e Conquistas  
-- DevSecOps, Docker e OWASP  
-![Trophies](https://github-profile-trophy.vercel.app/?username=borgesMagalhaes&theme=github_dark)
 
 ---
 
