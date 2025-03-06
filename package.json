@@ -1,13 +1,12 @@
 {
-    "name": "gh-stats-all-repos",
-    "version": "1.0.0",
-    "scripts": {
-      "generate:stats": "node scripts/generate-stats.js"
-    },
-    "dependencies": {
-      "node-fetch": "^3.3.1",
-      "dayjs": "^1.11.7",
-      "dayjs-plugin-utc": "^1.0.0",
-      "dayjs-plugin-timezone": "^1.0.0"
-    }
+  "name": "gh-stats-all-repos",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "generate:stats": "node scripts/generate-stats.js"
+  },
+  "dependencies": {
+    "node-fetch": "3.3.2",
+    "dayjs": "1.11.9"
   }
+}

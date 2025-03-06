@@ -22,14 +22,9 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-        # - name: Instalar dependências necessárias
-        # run: |
-        #   # Instala APENAS os pacotes que você precisa para gerar o gh-stats.png
-        #   npm install node-fetch dayjs dayjs-plugin-utc dayjs-plugin-timezone
-
       - name: Generate Stats
         env:
-          GITHUB_TOKEN: ${{ secrets.MY_PERSONAL_TOKEN }}
+          MY_PERSONAL_TOKEN: ${{ secrets.MY_PERSONAL_TOKEN }}
         run: npm run generate:stats
 
       - name: Commit stats
