@@ -59,7 +59,7 @@ Desenvolvedor **full-stack** com mais de 10 anos de experiência em aplicações
 
 | GitHub Streak | Atividade GitHub (últimos 30 dias) |
 |---|---|
-| ### GitHub Streak
+|
 ![GitHub Streak](https://streak-stats.demolab.com?user=borgesMagalhaes&theme=github-dark) | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=borgesMagalhaes&theme=github-dark) |
 
 | WakaTime Estatísticas | Visitas no Perfil |
