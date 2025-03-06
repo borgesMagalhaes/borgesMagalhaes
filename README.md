@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://giphy.com/gifs/sci-fi-matrix-cyberpunk-sULKEgDMX8LcI" alt="Coding GIF" width="800px"/>
+</p>
+
 # Bruno Magalhães – Engenheiro de Software & Especialista em DevSecOps  
 
 Olá, eu sou o **Bruno Magalhães**.  
