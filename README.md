@@ -58,7 +58,7 @@ Desenvolvedor **full-stack** com mais de 10 anos de experiência em aplicações
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=borgesMagalhaes&show_icons=true&theme=github_dark&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borgesMagalhaes&layout=compact&theme=github_dark) |
 
 | GitHub Streak |
-|---|---|
+|---------------|
 | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=borgesMagalhaes&theme=github-dark&hide_border=true) |
 
 | WakaTime Estatísticas | Visitas no Perfil |
@@ -66,7 +66,7 @@ Desenvolvedor **full-stack** com mais de 10 anos de experiência em aplicações
 | ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=borgesMagalhaes&theme=github_dark) | ![Views](https://komarev.com/ghpvc/?username=borgesMagalhaes&color=blue) |
 
 | Troféus GitHub |
-|---|
+|---------------|
 | ![Trophy](https://github-profile-trophy.vercel.app/?username=borgesMagalhaes&theme=github_dark&no-bg=true&row=1&column=6) |
 
 ---
