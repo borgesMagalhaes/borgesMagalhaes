@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/borgesMagalhaes/borgesMagalhaes/master/banner-dev.png" alt="Banner Desenvolvimento C# e Docker"/>
-</p>
-
 # Bruno Magalhães – Engenheiro de Software & Especialista em DevSecOps  
 
 Olá, eu sou o **Bruno Magalhães**.  
