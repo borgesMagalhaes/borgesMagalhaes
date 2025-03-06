@@ -32,7 +32,8 @@ jobs:
       # 4) Executa o script de geração (usa o GITHUB_TOKEN efêmero do Actions)
       - name: Generate Stats
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MY_PERSONAL_TOKEN: ${{ secrets.MY_PERSONAL_TOKEN }}
         run: npm run generate:stats
 
       # 5) Configura usuário Git e faz o commit do arquivo gh-stats.png

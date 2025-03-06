@@ -9,14 +9,15 @@ dayjs.extend(utc);
 dayjs.extend(timezone);
 
 // Lê o token da env MY_PERSONAL_TOKEN
-const GITHUB_TOKEN = process.env.GITHUB_TOKEN || "";
+// const GITHUB_TOKEN = process.env.GITHUB_TOKEN || "";
+const GITHUB_TOKEN = process.env.MY_PERSONAL_TOKEN || "";
 
 // Ajuste para sua timezone preferida
 const TIMEZONE = "America/Sao_Paulo";
 
 // Se quiser ignorar forks ou repos arquivados
-const IGNORAR_FORKS = true;
-const IGNORAR_ARCHIVED = true;
+const IGNORAR_FORKS = false;
+const IGNORAR_ARCHIVED = false;
 
 // Arrays para contar por hora (0..23)
 const commitBins = Array.from({ length: 24 }, () => 0);
