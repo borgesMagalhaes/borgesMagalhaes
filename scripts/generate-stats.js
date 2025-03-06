@@ -215,14 +215,6 @@ async function generateChart() {
       return;
     }
   
-    // Se quiser deletar o arquivo antigo antes de criar o novo:
-    // try { fs.unlinkSync("gh-stats.png"); } catch (_) {}
-  
-    const arrayBuffer = await res.arrayBuffer();
-    fs.writeFileSync("gh-stats.png", Buffer.from(arrayBuffer), "binary");
-    console.log("Gerado gh-stats.png com sucesso!");
-  }
-  
   try {
     fs.unlinkSync("gh-stats.png");
   } catch (err) {
