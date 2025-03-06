@@ -82,8 +82,8 @@ Desenvolvedor **full-stack** com mais de 10 anos de experiência em aplicações
   ### Horários de Commit
   ![Horários de Commit](https://raw.githubusercontent.com/borgesMagalhaes/commit-times-dashboard/main/commit-times.png)
 
-  ### Métricas WakaTime
-  [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=brunomagalhaes&theme=github_dark)](https://github.com/anmol098/waka-readme)
+### Métricas WakaTime
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=brunomagalhaes)](https://wakatime.com/@brunomagalhaes)
 
   </div>
 </details>
