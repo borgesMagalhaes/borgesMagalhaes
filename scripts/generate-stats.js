@@ -170,6 +170,11 @@ async function generateChart() {
     return;
   }
 
+  try {
+    fs.unlinkSync("gh-stats.png");
+  } catch (err) {
+    // Se o arquivo não existir, ignoramos o erro
+  }
   const arrayBuffer = await res.arrayBuffer();
   fs.writeFileSync("gh-stats.png", Buffer.from(arrayBuffer), "binary");
   console.log("Gerado gh-stats.png com sucesso!");
