@@ -1,0 +1,22 @@
+name: Generate Summary Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Gera uma vez por dia, ajuste se quiser
+  push:
+    branches: ["main"]   # Ou outra branch que você utilize
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out
+        uses: actions/checkout@v2
+
+      - name: GitHub Profile Summary Cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        with:
+        #   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            MY_PERSONAL_TOKEN: ${{ secrets.MY_PERSONAL_TOKEN }}
+            THEME: 2077

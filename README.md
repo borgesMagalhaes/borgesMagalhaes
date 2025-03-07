@@ -69,6 +69,13 @@ Desenvolvedor **full-stack** com mais de 10 anos de experiência em aplicações
 |:---:|
 | <img width="860px" src="https://github-profile-trophy.vercel.app/?username=borgesMagalhaes&theme=github_dark&no-bg=true&row=1&column=6"/> |
 
+
+## 📊 Estatísticas do Meu Perfil
+| Estatísticas GitHub |
+|:---:|
+![Commits e Issues](https://github.com/borgesMagalhaes/borgesMagalhaes/blob/main/profile-summary-card-output/SEU_TEMA/3-stats.svg)
+
+
 <details open>
   <summary><strong>Meu Dashboard Global</strong></summary>
   <br/>
