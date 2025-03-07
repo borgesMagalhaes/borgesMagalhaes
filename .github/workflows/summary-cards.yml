@@ -11,7 +11,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # Garante que este job possa fazer push
+      contents: write
     steps:
       - name: Check out
         uses: actions/checkout@v2
@@ -24,8 +24,5 @@ jobs:
           AUTO_PUSH: 'true'
         env:
           MY_PERSONAL_TOKEN: ${{ secrets.MY_PERSONAL_TOKEN }}
-          # Se quiser usar tema "2077", inclua:
-          EXTRA_ARGS: '--theme=2077'
-
           
 
