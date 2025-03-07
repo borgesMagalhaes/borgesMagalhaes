@@ -2,7 +2,7 @@ name: Generate Summary Cards
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Executa diariamente, ajuste se quiser
+    - cron: "0 0 * * *"
   push:
     branches: ["main"]
   workflow_dispatch:
@@ -23,6 +23,6 @@ jobs:
           BRANCH_NAME: main
           AUTO_PUSH: 'true'
         env:
-          MY_PERSONAL_TOKEN: ${{ secrets.MY_PERSONAL_TOKEN }}
-          
-
+          PERSONAL_TOKEN: ${{ secrets.MY_PERSONAL_TOKEN }}
+          # Se quiser definir um tema, descomente a linha abaixo
+          # EXTRA_ARGS: '--theme=2077'
