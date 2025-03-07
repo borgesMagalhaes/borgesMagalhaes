@@ -21,4 +21,6 @@ jobs:
           BRANCH_NAME: main
           AUTO_PUSH: 'true'
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PERSONAL_TOKEN: ${{ secrets.GH_PERSONAL_TOKEN }}
+
