@@ -73,8 +73,11 @@ Desenvolvedor **full-stack** com mais de 10 anos de experiência em aplicações
 ## 📊 Estatísticas do Meu Perfil
 | Estatísticas GitHub |
 |:---:|
-![Commits e Issues](https://github.com/borgesMagalhaes/borgesMagalhaes/blob/main/profile-summary-card-output/SEU_TEMA/3-stats.svg)
-
+![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=borgesMagalhaes&theme=github_dark)
+![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=borgesMagalhaes&theme=github_dark)
+![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=borgesMagalhaes&theme=github_dark)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=borgesMagalhaes&theme=github_dark)
+![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=borgesMagalhaes&theme=github_dark&utcOffset=3)
 
 <details open>
   <summary><strong>Meu Dashboard Global</strong></summary>
