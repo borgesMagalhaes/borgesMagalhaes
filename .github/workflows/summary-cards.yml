@@ -2,7 +2,7 @@ name: Generate Summary Cards
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Executa 1 vez por dia
+    - cron: "0 0 * * *"  # Executa diariamente, ajuste se quiser
   push:
     branches: ["main"]
   workflow_dispatch:
@@ -10,6 +10,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Garante que este job possa fazer push
     steps:
       - name: Check out
         uses: actions/checkout@v2
@@ -21,6 +23,9 @@ jobs:
           BRANCH_NAME: main
           AUTO_PUSH: 'true'
         env:
-          # GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          PERSONAL_TOKEN: ${{ secrets.GH_PERSONAL_TOKEN }}
+          MY_PERSONAL_TOKEN: ${{ secrets.MY_PERSONAL_TOKEN }}
+          # Se quiser usar tema "2077", inclua:
+          EXTRA_ARGS: '--theme=2077'
+
+          
 
