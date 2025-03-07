@@ -2,9 +2,9 @@ name: Generate Summary Cards
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Gera uma vez por dia, ajuste se quiser
+    - cron: "0 0 * * *"  # Executa 1 vez por dia
   push:
-    branches: ["main"]   # Ou outra branch que você utilize
+    branches: ["main"]
   workflow_dispatch:
 
 jobs:
@@ -17,6 +17,8 @@ jobs:
       - name: GitHub Profile Summary Cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-            # MY_PERSONAL_TOKEN: ${{ secrets.MY_PERSONAL_TOKEN }}
-            THEME: 2077
+          USERNAME: borgesMagalhaes
+          BRANCH_NAME: main
+          AUTO_PUSH: 'true'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
