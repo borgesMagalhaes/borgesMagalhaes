@@ -72,12 +72,17 @@ Desenvolvedor **full-stack** com mais de 10 anos de experiência em aplicações
 
 ## 📊 Estatísticas do Meu Perfil
 | Estatísticas GitHub |
-|:---:|
-![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=borgesMagalhaes&theme=github_dark)
-![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=borgesMagalhaes&theme=github_dark)
-![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=borgesMagalhaes&theme=github_dark)
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=borgesMagalhaes&theme=github_dark)
-![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=borgesMagalhaes&theme=github_dark&utcOffset=3)
+<!-- Primeira linha: Stats (esquerda) e Profile Details (direita) -->
+| ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=borgesMagalhaes&theme=github_dark) | ![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=borgesMagalhaes&theme=github_dark) |
+| --- | --- |
+
+<!-- Segunda linha: Repos per Language (esquerda) e Most Commit Language (direita) -->
+| ![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=borgesMagalhaes&theme=github_dark) | ![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=borgesMagalhaes&theme=github_dark) |
+| --- | --- |
+
+<!-- Terceira linha: Productive Time (esquerda) e célula vazia (direita) -->
+| ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=borgesMagalhaes&theme=github_dark&utcOffset=3) |  |
+| --- | --- |
 
 <details open>
   <summary><strong>Meu Dashboard Global</strong></summary>
