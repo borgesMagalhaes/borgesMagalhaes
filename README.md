@@ -71,7 +71,6 @@ Desenvolvedor **full-stack** com mais de 10 anos de experiência em aplicações
 
 
 ## 📊 Estatísticas do Meu Perfil
-| Estatísticas GitHub |
 <!-- Primeira linha: Stats (esquerda) e Profile Details (direita) -->
 | ![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=borgesMagalhaes&theme=github_dark) |
 | --- |
