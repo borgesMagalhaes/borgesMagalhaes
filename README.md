@@ -124,6 +124,8 @@ Desenvolvedor **full-stack** com mais de 10 anos de experiência em aplicações
   <br/>
   **São Luís, MA | Nov 2011 – Fev 2019**  
   - Desenvolvimento e manutenção de sistemas internos, implementação de integrações entre plataformas.
+  - Administração de Banco de Dados SQL Server
+  - Publicação de gestão de Aplicações Serv. Windoes IIS; Application Request Routing. 
 </details>
 
 </details>
