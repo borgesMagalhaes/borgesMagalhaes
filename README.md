@@ -119,6 +119,13 @@ Desenvolvedor **full-stack** com mais de 10 anos de experiência em aplicações
   - Liderança técnica, APIs e integração contínua.
 </details>
 
+<details open>
+  <summary><strong>Analista de Sistemas – SEDUC/MA</strong></summary>
+  <br/>
+  **São Luís, MA | Nov 2011 – Fev 2019**  
+  - Desenvolvimento e manutenção de sistemas internos, implementação de integrações entre plataformas.
+</details>
+
 </details>
 
 ---
